@@ -1,0 +1,3 @@
+C:/Users/azram/CLionProjects/proje3deneme/cmake-build-debug/CMakeFiles/proje3deneme.dir
+C:/Users/azram/CLionProjects/proje3deneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azram/CLionProjects/proje3deneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
